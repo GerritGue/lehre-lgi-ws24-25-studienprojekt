@@ -1,0 +1,3 @@
+# Koordinatensystem
+
+EPSG: 3035
